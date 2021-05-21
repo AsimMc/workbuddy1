@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/workbuddy1/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/workbuddy1/static/js/main.c9fdf9e0.chunk.js",
+    "main.js.map": "/workbuddy1/static/js/main.c9fdf9e0.chunk.js.map",
+    "runtime-main.js": "/workbuddy1/static/js/runtime-main.5f29e9e9.js",
+    "runtime-main.js.map": "/workbuddy1/static/js/runtime-main.5f29e9e9.js.map",
+    "static/js/2.75eeae10.chunk.js": "/workbuddy1/static/js/2.75eeae10.chunk.js",
+    "static/js/2.75eeae10.chunk.js.map": "/workbuddy1/static/js/2.75eeae10.chunk.js.map",
+    "static/js/3.7eb21fa7.chunk.js": "/workbuddy1/static/js/3.7eb21fa7.chunk.js",
+    "static/js/3.7eb21fa7.chunk.js.map": "/workbuddy1/static/js/3.7eb21fa7.chunk.js.map",
+    "index.html": "/workbuddy1/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/workbuddy1/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.75eeae10.chunk.js.LICENSE.txt": "/workbuddy1/static/js/2.75eeae10.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/workbuddy1/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f29e9e9.js",
+    "static/js/2.75eeae10.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.c9fdf9e0.chunk.js"
+  ]
+}
